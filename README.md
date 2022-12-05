@@ -11,4 +11,5 @@ Currently learning Docker and NextJS.
 ### 🚩 Goals for the future:
 
 •   Be more active on [Linkedin](https://www.linkedin.com/in/gustavo-henrique-riedo-martinho-a55153145/).
+
 •   Improve my web and mobile knowledge.
